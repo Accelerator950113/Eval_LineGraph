@@ -1,0 +1,150 @@
+Karate 34 78
+Line Graph : 78 528
+Line Graph Score : 0.4296
+EdgeNode Graph : 112 156
+EdgeNode Graph Score : 0.6642
+Dolphins 62 159
+Line Graph : 159 923
+Line Graph Score : 0.4996
+EdgeNode Graph : 221 318
+EdgeNode Graph Score : 0.7211
+Netscience 379 914
+Line Graph : 914 6417
+Line Graph Score : 0.6682
+EdgeNode Graph : 1293 1828
+EdgeNode Graph Score : 0.8248
+Celegans 453 2025
+Line Graph : 2025 79173
+Line Graph Score : 0.5470
+EdgeNode Graph : 2478 4050
+EdgeNode Graph Score : 0.6932
+Diseasome 516 1188
+Line Graph : 1188 9478
+Line Graph Score : 0.5523
+EdgeNode Graph : 1704 2376
+EdgeNode Graph Score : 0.7777
+GridMouse 1450 1636
+Line Graph : 1636 17888
+Line Graph Score : 0.4717
+EdgeNode Graph : 3086 3272
+EdgeNode Graph Score : 0.8391
+CrimeMoreno 829 1475
+Line Graph : 1475 7533
+Line Graph Score : 0.6691
+EdgeNode Graph : 2304 2948
+EdgeNode Graph Score : 0.7574
+WikiVote 889 2914
+Line Graph : 2914 49918
+Line Graph Score : 0.3709
+EdgeNode Graph : 3803 5828
+EdgeNode Graph Score : 0.6464
+EmailUniv 1133 5451
+Line Graph : 5451 96415
+Line Graph Score : 0.4224
+EdgeNode Graph : 6584 10902
+EdgeNode Graph Score : 0.5852
+GridPlant 1717 3098
+Line Graph : 3098 31076
+Line Graph Score : 0.3848
+EdgeNode Graph : 4815 6196
+EdgeNode Graph Score : 0.7994
+Yeast 1458 1948
+Line Graph : 1948 11936
+Line Graph Score : 0.6717
+EdgeNode Graph : 3406 3896
+EdgeNode Graph Score : 0.8376
+NipsEgo 2888 2981
+Line Graph : 2981 759641
+Line Graph Score : -0.5897
+EdgeNode Graph : 5869 5962
+EdgeNode Graph Score : 0.6820
+GridWorm 3507 6531
+Line Graph : 6531 321997
+Line Graph Score : 0.2566
+EdgeNode Graph : 10038 13062
+EdgeNode Graph Score : 0.6201
+GrQc 4158 13422
+Line Graph : 13422 227919
+Line Graph Score : 0.5758
+EdgeNode Graph : 17580 26844
+EdgeNode Graph Score : 0.7651
+USgrid 4941 6594
+Line Graph : 6594 18933
+Line Graph Score : 0.7046
+EdgeNode Graph : 11535 13188
+EdgeNode Graph Score : 0.8802
+Erdos992 5094 7515
+Line Graph : 7515 115164
+Line Graph Score : 0.3993
+EdgeNode Graph : 12609 15030
+EdgeNode Graph Score : 0.7372
+Bcspwr10 5300 13571
+Line Graph : 13571 39598
+Line Graph Score : 0.9619
+EdgeNode Graph : 18871 21842
+EdgeNode Graph Score : 0.9734
+Reality 6809 7680
+Line Graph : 7680 498515
+Line Graph Score : 0.2829
+EdgeNode Graph : 14489 15360
+EdgeNode Graph Score : 0.6377
+Reed98 962 18812
+Line Graph : 18812 1320357
+Line Graph Score : 0.2655
+EdgeNode Graph : 19774 37624
+EdgeNode Graph Score : 0.3175
+Hamster 2426 16630
+Line Graph : 16630 690413
+Line Graph Score : 0.5445
+EdgeNode Graph : 19056 33260
+EdgeNode Graph Score : 0.6468
+PagesFood 620 2102
+Line Graph : 2102 39742
+Line Graph Score : 0.4257
+EdgeNode Graph : 2722 4193
+EdgeNode Graph Score : 0.6889
+Lesmis 77 254
+Line Graph : 254 2808
+Line Graph Score : 0.4275
+EdgeNode Graph : 331 508
+EdgeNode Graph Score : 0.7118
+Football 115 613
+Line Graph : 613 5967
+Line Graph Score : 0.9024
+EdgeNode Graph : 728 1226
+EdgeNode Graph Score : 0.9195
+Polbooks 105 441
+Line Graph : 441 4822
+Line Graph Score : 0.6001
+EdgeNode Graph : 546 882
+EdgeNode Graph Score : 0.7037
+Tribes 16 58
+Line Graph : 58 387
+Line Graph Score : 0.1538
+EdgeNode Graph : 74 116
+EdgeNode Graph Score : 0.3875
+Southernwomen 18 78
+Line Graph : 78 602
+Line Graph Score : 0.5971
+EdgeNode Graph : 96 142
+EdgeNode Graph Score : 0.7216
+EnronOnly 143 623
+Line Graph : 623 7427
+Line Graph Score : 0.5181
+EdgeNode Graph : 766 1246
+EdgeNode Graph Score : 0.6758
+USAir97 332 2126
+Line Graph : 2126 92189
+Line Graph Score : 0.2682
+EdgeNode Graph : 2458 4252
+EdgeNode Graph Score : 0.5105
+SandiAuths 86 124
+Line Graph : 124 463
+Line Graph Score : 0.4869
+EdgeNode Graph : 210 248
+EdgeNode Graph Score : 0.7325
+CSphd 1882 1740
+Line Graph : 1740 6625
+Line Graph Score : 0.4808
+EdgeNode Graph : 3622 3480
+EdgeNode Graph Score : 0.9912
